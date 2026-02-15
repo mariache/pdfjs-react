@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "pdfjs-dist": "^1.8.432",
+    "pdfjs-dist": "^2.4.456",
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
   },
